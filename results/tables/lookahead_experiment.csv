@@ -1,0 +1,4 @@
+model,rmse,qlike,mz_r2
+sv_fullparams,8.1742,0.3853,0.4326
+sv_smoothed,5.954,0.1698,0.7098
+sv_kf,8.5932,0.4284,0.3906

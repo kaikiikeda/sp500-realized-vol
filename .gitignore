@@ -1,0 +1,8 @@
+# Raw index data is licensed by S&P Dow Jones Indices / Cboe: fetch with scripts/build_data.py
+data/raw/*.csv
+data/processed/*.csv
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
